@@ -10,3 +10,5 @@
 
 1.number
 2.number 2
+
+hi i am faizal .... i am pratices for git hub
